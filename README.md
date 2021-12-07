@@ -1,2 +1,2 @@
-# musicsites
-Sites for musicians and everything about music
+# Music Pages
+Pages for musicians and everything about music
